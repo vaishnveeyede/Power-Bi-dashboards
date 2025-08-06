@@ -3,7 +3,7 @@
 # 📊 Sales Insights Dashboard
 
 This project presents a **Sales Insights Dashboard** built using Power BI to visualize and analyze sales data effectively. It helps identify trends, top-performing products, markets, and stores to support business decisions.
-![Sales Insights Dashboard Screenshot](./image 1.png)
+
 
 ---
 
