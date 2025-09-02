@@ -12,16 +12,6 @@ This **Power BI dashboard** provides insights into ecommerce sales, profit, and 
   - Technology  
 - **Top 5 States by Sales**: California, New York, Texas, Pennsylvania, Washington  
 
-## 📂 Project Structure
-Ecommerce Sales Dashboard/
-├── ecommerce_sales_dashboard.pbix # Power BI file
-├── datasets/
-│ ├── salesdata_ecommercesite.csv
-│ ├── state_codes.csv
-├── Image1.png # Dashboard Screenshot
-├── Image2.png # Dashboard Screenshot
-├── Image3.png # Dashboard Screenshot
-
 ## 📑 Features
 - Sales & profit analysis by product category  
 - Order quantity trends over time  
